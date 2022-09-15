@@ -1,2 +1,2 @@
 # Automarker
-An app for making quizzes
+An automarker app for marking Python assignments for students.
